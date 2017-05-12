@@ -1,0 +1,9 @@
+C:\Users\Konnor\Documents\GitHub\HTML_Carousel\HTML_Carousel\bin\Debug\netcoreapp1.1\HTML_Carousel.deps.json
+C:\Users\Konnor\Documents\GitHub\HTML_Carousel\HTML_Carousel\bin\Debug\netcoreapp1.1\HTML_Carousel.runtimeconfig.json
+C:\Users\Konnor\Documents\GitHub\HTML_Carousel\HTML_Carousel\bin\Debug\netcoreapp1.1\HTML_Carousel.runtimeconfig.dev.json
+C:\Users\Konnor\Documents\GitHub\HTML_Carousel\HTML_Carousel\bin\Debug\netcoreapp1.1\HTML_Carousel.dll
+C:\Users\Konnor\Documents\GitHub\HTML_Carousel\HTML_Carousel\bin\Debug\netcoreapp1.1\HTML_Carousel.pdb
+C:\Users\Konnor\Documents\GitHub\HTML_Carousel\HTML_Carousel\obj\Debug\netcoreapp1.1\HTML_Carousel.csprojResolveAssemblyReference.cache
+C:\Users\Konnor\Documents\GitHub\HTML_Carousel\HTML_Carousel\obj\Debug\netcoreapp1.1\HTML_Carousel.AssemblyInfo.cs
+C:\Users\Konnor\Documents\GitHub\HTML_Carousel\HTML_Carousel\obj\Debug\netcoreapp1.1\HTML_Carousel.dll
+C:\Users\Konnor\Documents\GitHub\HTML_Carousel\HTML_Carousel\obj\Debug\netcoreapp1.1\HTML_Carousel.pdb
